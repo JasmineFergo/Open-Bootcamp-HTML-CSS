@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+    <html>
+        <head> 
+            <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+        </head>
+        <body>
+            <div>
+                <p>Este es mi primer comentario de dos líneas</p>
+                <span>Aprendiendo a documentar mi código con OpenBootcamp</span>
+            </div>
+            <div>
+                <h4>Mis tres vídeos favoritos de YouTube</h4>
+                    <ul>
+                        <li>
+                            <a href="https://www.youtube.com/watch?v=X2BYmmTI04I">5 Seconds Of Summer - She looks so perfect (Oficial Video)</a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/watch?v=Z1erSu_ikO0">Pablo Alborán - Tu refugio</a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/watch?v=WTv5-U78LSA">5 Seconds of Summer "Ghost of You" Live at The Greek Theater | Global Citizen Live</a>
+                        </li>
+                    </ul>
+            </div>
+        </body>
+    </html>
